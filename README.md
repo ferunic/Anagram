@@ -5,11 +5,14 @@ Programmen finner alle anagrammer for ordene i listen og lagrer resultaten i en 
 > AnagramConsole krever to argumenter, *arg1* referer txt fil med ordbok *arg2* angir txt fil hvor resultat skal lagres
 - se under Deploy and run avsnitt for eksempler til bruk av AnagramConsole
 
+>AnagramConsole operer med Western European (ISO) encoding både for input og output fil
+
 ## Code structure
     .
     ├── AnagramConsole          - Console application (C#) 
     ├── AnagramService          - Class library (C#)
     ├── AnagramService.Tests    - xUnit test of AnagramService (C#) 
+    
 ## Deploy and run
 
   Last ned kildekoden fra siste verifisert release fra 'https://github.com/ferunic/Anagram/releases'
