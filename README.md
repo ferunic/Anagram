@@ -9,4 +9,13 @@ Programmen finner alle anagrammer for ordene i listen og lagrer resultaten i en 
     ├── AnagramService.Tests    - xUnit test of AnagramService (C#) 
 ## Deploy and run
 
+  Last ned kildekoden fra siste verifisert release fra 'https://github.com/ferunic/Anagram/releases'
+  
+  Pakke ut og deploy fra din favorite IDE (VSCode, Visual Studio, Rider...)
+  
+  Kjør AnagramConsole.exe fra command line
+  
+  >Example
+  -  .\AnagramConsole.exe C:\Anagram-ordbok.txt resultat.txt
+  
   
