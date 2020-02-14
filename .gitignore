@@ -1,0 +1,14 @@
+obj/
+bin/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.idea
+*.ionide
+
+# Visual Studio
+.vs/
+.vscode/
